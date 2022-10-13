@@ -1,3 +1,5 @@
+Crud creado con Angular, Nodejs y Mysql
+
 NodeJs : npm run dev
 Angular : npm start
 
